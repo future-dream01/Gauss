@@ -1,0 +1,5 @@
+circle
+trapezium
+triangle
+pentagon
+parallelogram
