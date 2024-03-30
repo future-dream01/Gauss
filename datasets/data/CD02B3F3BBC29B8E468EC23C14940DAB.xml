@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mohu</folder>
+	<filename>CD02B3F3BBC29B8E468EC23C14940DAB.png</filename>
+	<path>/Users/liuquan/Desktop/VscodeProject/ github code/YOLOX_Gauss/gaosi/mohu/CD02B3F3BBC29B8E468EC23C14940DAB.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1942</width>
+		<height>1407</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Laminar flow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>41</ymin>
+			<xmax>1915</xmax>
+			<ymax>1325</ymax>
+		</bndbox>
+	</object>
+</annotation>

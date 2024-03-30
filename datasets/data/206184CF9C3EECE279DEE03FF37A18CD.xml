@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mohu</folder>
+	<filename>206184CF9C3EECE279DEE03FF37A18CD.png</filename>
+	<path>/Users/liuquan/Desktop/VscodeProject/ github code/YOLOX_Gauss/gaosi/mohu/206184CF9C3EECE279DEE03FF37A18CD.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1434</width>
+		<height>1434</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Transition flow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>377</ymin>
+			<xmax>1348</xmax>
+			<ymax>1107</ymax>
+		</bndbox>
+	</object>
+</annotation>

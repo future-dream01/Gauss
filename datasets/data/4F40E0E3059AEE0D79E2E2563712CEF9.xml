@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mohu</folder>
+	<filename>4F40E0E3059AEE0D79E2E2563712CEF9.png</filename>
+	<path>/Users/liuquan/Desktop/VscodeProject/ github code/YOLOX_Gauss/gaosi/mohu/4F40E0E3059AEE0D79E2E2563712CEF9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2279</width>
+		<height>1533</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turbulence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>21</ymin>
+			<xmax>2199</xmax>
+			<ymax>1488</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,5 +1,4 @@
-circle
-trapezium
-triangle
-pentagon
-parallelogram
+Laminar flow
+turbulence
+vortex
+Transition flow

@@ -22,10 +22,10 @@ IMAGE_EXT = [".jpg", ".jpeg", ".webp", ".bmp", ".png"]
 def make_parser():
     parser = argparse.ArgumentParser("YOLOX Demo!")
     parser.add_argument(
-        "demo", default="image", help="demo type, eg. image, video and webcam"
+        "demo", default="image", help="demo type, eg. image, video and webcam"          # 指定数据源是图片还是视频
     )
-    parser.add_argument("-expn", "--experiment-name", type=str, default=None)
-    parser.add_argument("-n", "--name", type=str, default=None, help="model name")
+    parser.add_argument("-expn", "--experiment-name", type=str, default=None)           # 指定实验名称
+    parser.add_argument("-n", "--name", type=str, default=None, help="model name")      # 指定模型名称
 
     parser.add_argument(
         "--path", default="./assets/dog.jpg", help="path to images or video"

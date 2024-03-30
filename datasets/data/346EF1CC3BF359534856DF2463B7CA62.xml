@@ -1,0 +1,62 @@
+<annotation>
+	<folder>mohu</folder>
+	<filename>346EF1CC3BF359534856DF2463B7CA62.png</filename>
+	<path>/Users/liuquan/Desktop/VscodeProject/ github code/YOLOX_Gauss/gaosi/mohu/346EF1CC3BF359534856DF2463B7CA62.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2289</width>
+		<height>1486</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Laminar flow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>56</ymin>
+			<xmax>1229</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Transition flow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1308</xmin>
+			<ymin>29</ymin>
+			<xmax>2289</xmax>
+			<ymax>798</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turbulence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>765</ymin>
+			<xmax>1377</xmax>
+			<ymax>1479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vortex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1498</xmin>
+			<ymin>806</ymin>
+			<xmax>2258</xmax>
+			<ymax>1434</ymax>
+		</bndbox>
+	</object>
+</annotation>

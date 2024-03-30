@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mohu</folder>
+	<filename>85C479A844D938F9F2FAB02DA17043BF.png</filename>
+	<path>/Users/liuquan/Desktop/VscodeProject/ github code/YOLOX_Gauss/gaosi/mohu/85C479A844D938F9F2FAB02DA17043BF.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2251</width>
+		<height>1549</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vortex</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>11</ymin>
+			<xmax>2093</xmax>
+			<ymax>1526</ymax>
+		</bndbox>
+	</object>
+</annotation>
